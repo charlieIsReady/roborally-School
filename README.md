@@ -1,2 +1,3 @@
 # roborally-School
-scholl project to create a roborally game
+school project to create a roborally game
+
